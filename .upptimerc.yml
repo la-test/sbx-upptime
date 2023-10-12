@@ -8,6 +8,10 @@ sites:
     url: https://private.storage/
   - name: Winden
     url: https://winden.app/
+  - name: Magic Wormhole Mailbox
+    url: https://mailbox.mw.leastauthority.com/
+  - name: Magic Wormhole Relay
+    url: https://relay.mw.leastauthority.com/
   - name: HRO Cloud - storage001
     check: "tcp-ping"
     url: storage001.deerfield.leastauthority.com
@@ -28,8 +32,6 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This site monitor public resources of LA
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
