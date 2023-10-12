@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1934,
-    "timeDay": 1934,
-    "timeWeek": 1934,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "time": 1671,
+    "timeDay": 1671,
+    "timeWeek": 1671,
+    "timeMonth": 1671,
+    "timeYear": 1671,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1827,
-    "timeDay": 1827,
-    "timeWeek": 1827,
-    "timeMonth": 1827,
-    "timeYear": 1827,
+    "time": 1195,
+    "timeDay": 1195,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 417,
+    "timeDay": 417,
+    "timeWeek": 417,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hro-cloud-storage002",
     "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 345
+      "2023-10-12": 496
     }
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
