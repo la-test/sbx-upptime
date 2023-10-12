@@ -2,28 +2,33 @@ owner: la-test
 repo: sbx-upptime
 
 sites:
-  - name: Least Authority
+  - name: Least Authority - website
     url: https://www.leastauthority.com/
-  - name: Private Storage
+  - name: Private Storage - website
     url: https://private.storage/
-  - name: Winden
+  - name: Winden - website
     url: https://winden.app/
-  - name: Magic Wormhole Mailbox
+  - name: Magic Wormhole - mailbox
     url: https://mailbox.mw.leastauthority.com/
-  - name: Magic Wormhole Relay
+    icon: https://leastauthority.com/wp-content/uploads/2020/07/wormhole2-e1596622143647.png
+  - name: Magic Wormhole - relay
     url: https://relay.mw.leastauthority.com/
+    icon: https://leastauthority.com/wp-content/uploads/2020/07/wormhole2-e1596622143647.png
   - name: HRO Cloud - storage001
     check: "tcp-ping"
     url: storage001.deerfield.leastauthority.com
     port: 8898
+    icon: https://leastauthority.com/wp-content/uploads/2021/05/TahoeLAFS.png
   - name: HRO Cloud - storage002
     check: "tcp-ping"
     url: storage002.deerfield.leastauthority.com
     port: 8898
+    icon: https://leastauthority.com/wp-content/uploads/2021/05/TahoeLAFS.png
   - name: HRO Cloud - storage003
     check: "tcp-ping"
     url: storage003.deerfield.leastauthority.com
     port: 8898
+    icon: https://leastauthority.com/wp-content/uploads/2021/05/TahoeLAFS.png
 
 status-website:
   baseUrl: /sbx-upptime
