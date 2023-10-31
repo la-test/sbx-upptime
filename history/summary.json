@@ -78,19 +78,19 @@
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://leastauthority.com/wp-content/uploads/2020/07/wormhole2-e1596622143647.png",
     "slug": "magic-wormhole-relay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 438,
-    "timeWeek": 529,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 483,
+    "timeDay": 420,
+    "timeWeek": 513,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 6
     }
   },
   {
