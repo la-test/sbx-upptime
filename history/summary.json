@@ -78,9 +78,9 @@
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://leastauthority.com/wp-content/uploads/2020/07/wormhole2-e1596622143647.png",
     "slug": "magic-wormhole-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 529,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-31": 0
+    }
   },
   {
     "name": "HRO Cloud - storage001",
@@ -115,11 +117,11 @@
     "icon": "https://leastauthority.com/wp-content/uploads/2021/05/TahoeLAFS.png",
     "slug": "hro-cloud-storage002",
     "status": "up",
-    "uptime": "93.98%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "93.98%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "94.06%",
     "time": 132,
     "timeDay": 117,
     "timeWeek": 137,
